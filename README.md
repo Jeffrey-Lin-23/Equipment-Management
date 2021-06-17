@@ -6,7 +6,7 @@ The main function of this is are Add new equipment, Edit the exist equipment, Ch
 
 Framework: React</br>
 Backend: .Net Core 3.1</br>
-DB:MySql</br>
+DB:MySQL</br>
 Package: Reactstrap/React-router/Dapper</br>
 
 </br>
