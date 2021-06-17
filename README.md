@@ -3,6 +3,7 @@
 A protype of Equimpment Management System
 
 React + C# + MySQL
-<img src="image/intro-01.png" width="300">
+</br>
+<img src="image/intro-01.png" width="600">
 
 
